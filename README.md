@@ -52,7 +52,6 @@ By completing this project, you gain both **theoretical understanding** and **pr
 ### 🎓 Industry-Relevant Knowledge
 - Foundation for advanced algorithms like **Random Forest** and **Gradient Boosting**
 - Understanding **Explainable AI (XAI)** concepts  
-- Preparation for academic projects, internships, and interviews  
 
 ---
 
